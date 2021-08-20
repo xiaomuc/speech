@@ -3,6 +3,10 @@
 	width: 100%;
 }
 
+.debug {
+	display: none;
+}
+
 .FlexTextarea {
 	font-size: 36pt;
 	position: relative;
